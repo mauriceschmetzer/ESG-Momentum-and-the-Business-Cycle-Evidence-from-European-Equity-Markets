@@ -28,8 +28,8 @@ ever, the evidence remains sensitive to model specifications and weighting schem
 
 Maurice Schmetzer  
 M.Sc. Data Science in Business & Economics, University of Tübingen  
-GitHub: github.com/mauriceschmetzer  
-LinkedIn: linkedin.com/in/maurice-schmetzer
+LinkedIn: [linkedin.com/in/maurice-schmetzer](https://www.linkedin.com/in/maurice-schmetzer) <br>
+GitHub: [github.com/mauriceschmetzer](https://github.com/mauriceschmetzer)
 
 ## Repository Overview
 This repository contains the Python code used to perform the analysis of the master thesis. It uses docker container, Python files and Juypter Notebooks.  
