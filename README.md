@@ -24,6 +24,13 @@ of payoffs, as direct payoff regressions suggest that ESG momentum returns are p
 explained by dividend yield, short-term yield, term spread, and default spread. How
 ever, the evidence remains sensitive to model specifications and weighting schemes.
 
+## Author
+
+Maurice Schmetzer  
+M.Sc. Data Science in Business & Economics, University of Tübingen  
+GitHub: github.com/mauriceschmetzer  
+LinkedIn: linkedin.com/in/maurice-schmetzer
+
 ## Repository Overview
 This repository contains the Python code used to perform the analysis of the master thesis. It uses docker container, Python files and Juypter Notebooks.  
 
@@ -81,8 +88,3 @@ pip install -r requirements.txt
 ### Data
 
 This repository does not contain any proprietary market data from Refinitiv/Eikon or any other third-party data provider.
-
-<br>
-<br>
-
-*Developed by Maurice Schmetzer*
