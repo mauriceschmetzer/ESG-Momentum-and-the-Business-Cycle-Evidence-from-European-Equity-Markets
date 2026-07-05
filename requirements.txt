@@ -1,0 +1,13 @@
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+openpyxl
+XlsxWriter
+statsmodels
+linearmodels
+pydynpd
+mpmath
+refinitiv.data

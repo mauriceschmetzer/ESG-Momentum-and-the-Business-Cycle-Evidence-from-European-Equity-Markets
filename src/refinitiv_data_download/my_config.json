@@ -1,0 +1,14 @@
+{
+    "logs": {
+        "level": "debug",
+        "transports": {
+            "console": {
+                "enabled": true
+            },
+            "file": {
+                "enabled": true,
+                "name": "refinitiv_data.log"
+            }
+        }
+    }
+}
